@@ -95,7 +95,7 @@ python3 moonlight_run.py
 ## Quick Start
 
 1. Open MoonLight → go to **Capture**
-2. Select your network interface (e.g. `wlp9s0`)
+2. Select your network interface (e.g. `removed for security reasons`)
 3. Hit **Start** — packets appear immediately
 4. Use the display filter bar: `tcp`, `dns`, `ip.addr == 192.168.1.1`, etc.
 5. Click any row to see the full packet breakdown and hex dump
