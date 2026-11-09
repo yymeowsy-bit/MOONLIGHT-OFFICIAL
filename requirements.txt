@@ -1,0 +1,4 @@
+# Moonlight runtime dependencies
+PyQt6>=6.5.0
+pypresence>=4.3.0
+scapy>=2.5.0
